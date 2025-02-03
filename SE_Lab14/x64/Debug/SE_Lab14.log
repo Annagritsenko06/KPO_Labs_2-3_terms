@@ -1,0 +1,18 @@
+﻿  Error.cpp
+  IT.cpp
+  In.cpp
+D:\KPO\labs\SE_Lab14\SE_Lab14\In.cpp(1,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+D:\KPO\labs\SE_Lab14\SE_Lab14\In.cpp(1,1): message : "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  LT.cpp
+  Log.cpp
+D:\KPO\labs\SE_Lab14\SE_Lab14\Log.cpp(1,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+D:\KPO\labs\SE_Lab14\SE_Lab14\Log.cpp(1,1): message : "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  Out.cpp
+D:\KPO\labs\SE_Lab14\SE_Lab14\Out.cpp(1,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+D:\KPO\labs\SE_Lab14\SE_Lab14\Out.cpp(1,1): message : "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  Parm.cpp
+  SE_Lab14.cpp
+D:\KPO\labs\SE_Lab14\SE_Lab14\SE_Lab14.cpp(29,52): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\KPO\labs\SE_Lab14\SE_Lab14\SE_Lab14.cpp(30,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  SE_Lab14.vcxproj -> D:\KPO\labs\SE_Lab14\x64\Debug\SE_Lab14.exe

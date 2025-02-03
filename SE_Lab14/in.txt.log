@@ -1,0 +1,12 @@
+
+--—- Протокол ——--
+Дата: 27.10.24 18:53:26
+--—- Параметры ——--
+ -in:	C:\Users\admin\Documents\SE_Lab14\SE_Lab14\in.txt
+ -out:	C:\Users\admin\Documents\SE_Lab14\SE_Lab14\in.txt.out
+ -log:	C:\Users\admin\Documents\SE_Lab14\SE_Lab14\in.txt.log
+--—- Исходные данные ——-- 
+Кол-во символов:	614
+Кол-во строк:		36
+Пропущенно:		0
+Ошибка 97: Лексический анализатор: неизвестная переменная строка 3, позиция: -1
