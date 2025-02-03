@@ -1,0 +1,8 @@
+main 
+{
+declare integer x;
+}
+main 
+{
+declare integer y;
+}

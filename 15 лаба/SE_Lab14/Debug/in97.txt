@@ -1,0 +1,5 @@
+main 
+{
+x = 10
+declare integer x;
+}
