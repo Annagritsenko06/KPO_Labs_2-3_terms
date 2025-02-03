@@ -1,0 +1,4 @@
+main 
+{
+declare integer xfygshudfsudfysdfsdfsdguwbelnkgvsdnbovuidkv;
+}
