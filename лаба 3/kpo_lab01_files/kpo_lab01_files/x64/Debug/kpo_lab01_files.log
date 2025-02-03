@@ -1,0 +1,152 @@
+﻿  function 4.cpp
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "function%204.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getMonthName"
+  (компиляция исходного файла "function%204.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "function%204.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,1): error C2086: int string: переопределение
+  (компиляция исходного файла "function%204.cpp")
+  C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,1):
+   см. объявление "string"
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getDateFromDayOfYear"
+  (компиляция исходного файла "function%204.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 4.cpp(6,1): error C2872: string: неоднозначный символ
+  C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,1):
+  может быть "int string"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5127,19):
+  или       "std::string"
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 4.cpp(6,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 4.cpp(6,1): error C2086: int string: переопределение
+  C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,1):
+   см. объявление "string"
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 4.cpp(6,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getDateFromDayOfYear"
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 4.cpp(6,54): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 4.cpp(6,54): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 4.cpp(51,5): error C2872: string: неоднозначный символ
+  C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,1):
+  может быть "int string"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5127,19):
+  или       "std::string"
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 4.cpp(51,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "date"
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 4.cpp(51,12): error C2065: date: необъявленный идентификатор
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 4.cpp(51,19): error C3861: getDateFromDayOfYear: идентификатор не найден
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 4.cpp(52,119): error C2065: date: необъявленный идентификатор
+  function 5.cpp
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "function%205.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getMonthName"
+  (компиляция исходного файла "function%205.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "function%205.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,1): error C2086: int string: переопределение
+  (компиляция исходного файла "function%205.cpp")
+  C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,1):
+   см. объявление "string"
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getDateFromDayOfYear"
+  (компиляция исходного файла "function%205.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 5.cpp(7,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 5.cpp(7,1): error C2086: int string: переопределение
+  C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,1):
+   см. объявление "string"
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 5.cpp(7,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getMonthName"
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 5.cpp(7,32): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\function 5.cpp(7,32): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  function1.cpp
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "function1.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getMonthName"
+  (компиляция исходного файла "function1.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "function1.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,1): error C2086: int string: переопределение
+  (компиляция исходного файла "function1.cpp")
+  C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,1):
+   см. объявление "string"
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getDateFromDayOfYear"
+  (компиляция исходного файла "function1.cpp")
+  
+  function2.cpp
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "function2.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getMonthName"
+  (компиляция исходного файла "function2.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "function2.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,1): error C2086: int string: переопределение
+  (компиляция исходного файла "function2.cpp")
+  C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,1):
+   см. объявление "string"
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getDateFromDayOfYear"
+  (компиляция исходного файла "function2.cpp")
+  
+  function3.cpp
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "function3.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getMonthName"
+  (компиляция исходного файла "function3.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "function3.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,1): error C2086: int string: переопределение
+  (компиляция исходного файла "function3.cpp")
+  C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,1):
+   см. объявление "string"
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getDateFromDayOfYear"
+  (компиляция исходного файла "function3.cpp")
+  
+  main.cpp
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getMonthName"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,1): error C2086: int string: переопределение
+  (компиляция исходного файла "main.cpp")
+  C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,1):
+   см. объявление "string"
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(3,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getDateFromDayOfYear"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\main.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\main.cpp(17,13): error C2872: string: неоднозначный символ
+  C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\stdafx.h(2,1):
+  может быть "int string"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5127,19):
+  или       "std::string"
+  
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\main.cpp(17,20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "monthName"
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\main.cpp(17,20): error C2065: monthName: необъявленный идентификатор
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\main.cpp(17,32): error C3861: getMonthName: идентификатор не найден
+C:\Users\admin\Documents\уник\кпо\лаба 3\kpo_lab01_files\kpo_lab01_files\main.cpp(18,54): error C2065: monthName: необъявленный идентификатор
+  Создание кода...
