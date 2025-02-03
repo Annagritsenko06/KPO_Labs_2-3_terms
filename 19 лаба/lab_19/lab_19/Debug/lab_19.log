@@ -1,0 +1,26 @@
+﻿Сборка начата 18.12.2024 17:33:07.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\lab_19\lab_19.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+         Создание каталога "C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\".
+         Создание каталога "Debug\lab_19.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\lab_19.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\lab_19.tlog\unsuccessfulbuild".
+       _MASM:
+         Assembling SE_asm01.asm...
+         cmd.exe /C "C:\Users\admin\AppData\Local\Temp\tmpc5e9f3c30c9f469c88d0fe83aa9b133f.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\SE_asm01.obj" /W3 /errorReport:prompt  /TaSE_asm01.asm
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\lab_19.exe" /INCREMENTAL /ILK:"Debug\lab_19.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\lab_19.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\lab_19.lib" /MACHINE:X86 Debug\SE_asm01.obj
+         lab_19.vcxproj -> C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\lab_19.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab_19.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab_19.tlog\lab_19.lastbuildstate".
+     1>Сборка проекта "C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\lab_19\lab_19.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.29

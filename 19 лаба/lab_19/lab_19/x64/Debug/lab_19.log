@@ -1,0 +1,37 @@
+﻿Сборка начата 18.12.2024 17:32:34.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\lab_19\lab_19.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Debug\lab_19.tlog\unsuccessfulbuild".
+       _MASM:
+         Assembling SE_asm01.asm...
+         cmd.exe /C "C:\Users\admin\AppData\Local\Temp\tmpa4b129bbad98421d84861b04f257ba8a.cmd"
+         ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_asm01.obj" /Fl"x64\Debug\\" /W3 /errorReport:prompt  /TaSE_asm01.asm
+     1>SE_asm01.asm(1): error A2008: syntax error : .
+     1>SE_asm01.asm(2): error A2008: syntax error : .
+     1>SE_asm01.asm(7): error A2008: syntax error : .
+     1>SE_asm01.asm(22): error A2070: invalid instruction operands
+     1>SE_asm01.asm(27): error A2070: invalid instruction operands
+     1>SE_asm01.asm(36): error A2008: syntax error : ecx
+     1>SE_asm01.asm(50): fatal error A1010: unmatched block nesting : getmin
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_asm01.obj" /Fl"x64\Debug\\" /W3 /errorReport:prompt  /TaSE_asm01.asm" с кодом "1".
+     1>Сборка проекта "C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\lab_19\lab_19.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\lab_19\lab_19.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект _MASM) -> 
+         SE_asm01.asm(1): error A2008: syntax error : .
+         SE_asm01.asm(2): error A2008: syntax error : .
+         SE_asm01.asm(7): error A2008: syntax error : .
+         SE_asm01.asm(22): error A2070: invalid instruction operands
+         SE_asm01.asm(27): error A2070: invalid instruction operands
+         SE_asm01.asm(36): error A2008: syntax error : ecx
+         SE_asm01.asm(50): fatal error A1010: unmatched block nesting : getmin
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_asm01.obj" /Fl"x64\Debug\\" /W3 /errorReport:prompt  /TaSE_asm01.asm" с кодом "1".
+
+    Предупреждений: 0
+    Ошибок: 8
+
+Прошло времени 00:00:00.32

@@ -1,0 +1,430 @@
+﻿Сборка начата 19.12.2024 12:54:33.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\SE_asm01c\SE_asm01c.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "Debug\SE_asm01c.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt SE_asm01c.cpp
+         SE_asm01c.cpp
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(1,2): error C2059: синтаксическая ошибка: <
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(2,59): error C2018: неизвестный знак "0x60"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,4): error C2018: неизвестный знак "0x2"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,7): error C2018: неизвестный знак "0x1"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,8): error C2018: неизвестный знак "0x14"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,11): error C2018: неизвестный знак "0x1"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,12): error C2018: неизвестный знак "0x14"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,20): error C2018: неизвестный знак "0x40"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,21): error C2059: синтаксическая ошибка: неправильный суффикс для числа
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,30): error C2018: неизвестный знак "0x40"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,31): error C2059: синтаксическая ошибка: неправильный суффикс для числа
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,91): error C2018: неизвестный знак "0x60"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,1): error C2018: неизвестный знак "0x1"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,5): error C2018: неизвестный знак "0x14"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,6): error C2018: неизвестный знак "0x1"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,9): error C2018: неизвестный знак "0x2"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,13): error C2018: неизвестный знак "0x1"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,15): error C2018: неизвестный знак "0x1"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,24): error C2018: неизвестный знак "0x40"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,25): error C2059: синтаксическая ошибка: неправильный суффикс для числа
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,34): error C2018: неизвестный знак "0x40"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,35): error C2059: синтаксическая ошибка: неправильный суффикс для числа
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(5,6): error C2017: недопустимая escape-последовательность
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(5,79): error C2018: неизвестный знак "0x60"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,2): error C2018: неизвестный знак "0x1"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,3): error C2018: неизвестный знак "0x4"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,5): error C3872: 0xa4: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,13): error C2018: неизвестный знак "0x5"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,16): error C2018: неизвестный знак "0x11"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,64): error C2018: неизвестный знак "0x60"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,101): error C2018: неизвестный знак "0x40"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,107): error C3872: 0x24: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,124): error C2018: неизвестный знак "0x3"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,127): error C3872: 0x4: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,141): error C2018: неизвестный знак "0xe"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,145): error C2018: неизвестный знак "0x40"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,147): error C2018: неизвестный знак "0x10"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,170): error C2018: неизвестный знак "0x5"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,185): error C2018: неизвестный знак "0x40"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,187): error C2018: неизвестный знак "0x10"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,188): error C3872: 0x2039: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,203): error C3873: "0x2039": этот символ недопустим как первый символ идентификатора
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,207): error C2018: неизвестный знак "0x8"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,208): error C3873: "0x2039": этот символ недопустим как первый символ идентификатора
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,211): error C2018: неизвестный знак "0x1e"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,217): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,217): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,217): error C2059: синтаксическая ошибка: }
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,218): error C2018: неизвестный знак "0x1"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,219): error C3873: "0x201c": этот символ недопустим как первый символ идентификатора
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,219): error C3872: 0x201c: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,236): error C2018: неизвестный знак "0x8"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,238): error C3872: 0x2039: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,252): error C3873: "0x2039": этот символ недопустим как первый символ идентификатора
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,256): error C2018: неизвестный знак "0x8"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,257): error C3873: "0x2039": этот символ недопустим как первый символ идентификатора
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,260): error C2018: неизвестный знак "0x1e"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,263): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,266): error C2143: синтаксическая ошибка: отсутствие ";" перед "~"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,266): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,264): error C2086: int Г: переопределение
+         (компиляция исходного файла "SE_asm01c.cpp")
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,215):
+          см. объявление "Г"
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,267): error C2018: неизвестный знак "0x1"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,268): error C3873: "0x201c": этот символ недопустим как первый символ идентификатора
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,268): error C3872: 0x201c: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,268): error C2588: ::~“вш“: недопустимая глобальная переменная деструктор
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,279): error C2760: синтаксическая ошибка: непредвиденный элемент "^". Ожидается "выражение"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,279): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,279): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,285): error C2018: неизвестный знак "0x8"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,287): error C2018: неизвестный знак "0x4"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,279): error C3193: "^": требуется параметр командной строки "/clr" или "/ZW"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,296): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,291): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "у"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,303): error C2017: недопустимая escape-последовательность
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,309): error C2017: недопустимая escape-последовательность
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,315): error C2017: недопустимая escape-последовательность
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,316): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,310): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "admin"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,325): error C2017: недопустимая escape-последовательность
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,342): error C2017: недопустимая escape-последовательность
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,345): error C3872: 0x2022: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,358): error C2017: недопустимая escape-последовательность
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,371): error C2017: недопустимая escape-последовательность
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,375): error C3872: 0xbb: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,375): error C3872: 0xb0: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,375): error C3872: 0xb1: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,391): error C2017: недопустимая escape-последовательность
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,398): error C2017: недопустимая escape-последовательность
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,407): error C2017: недопустимая escape-последовательность
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,434): error C2018: неизвестный знак "0x1"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,439): error C2018: неизвестный знак "0x3"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,441): error C2018: неизвестный знак "0x1c"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,442): error C3872: 0x201e: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,442): error C3872: 0x4: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,452): error C2018: неизвестный знак "0x7"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,465): error C2018: неизвестный знак "0x3"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,466): error C3872: 0x2022: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,466): error C3872: 0xb1: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,466): error C3872: 0x201e: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,525): error C2018: неизвестный знак "0x16"
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,529): error C3872: 0x4: этот символ невозможно использовать в идентификаторе
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,529): error C1003: число ошибок превышает 100; остановка компиляции
+         (компиляция исходного файла "SE_asm01c.cpp")
+         
+     1>Сборка проекта "C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\SE_asm01c\SE_asm01c.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\SE_asm01c\SE_asm01c.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(1,2): error C2059: синтаксическая ошибка: <
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(2,59): error C2018: неизвестный знак "0x60"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,4): error C2018: неизвестный знак "0x2"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,7): error C2018: неизвестный знак "0x1"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,8): error C2018: неизвестный знак "0x14"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,11): error C2018: неизвестный знак "0x1"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,12): error C2018: неизвестный знак "0x14"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,20): error C2018: неизвестный знак "0x40"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,21): error C2059: синтаксическая ошибка: неправильный суффикс для числа
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,30): error C2018: неизвестный знак "0x40"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,31): error C2059: синтаксическая ошибка: неправильный суффикс для числа
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(3,91): error C2018: неизвестный знак "0x60"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,1): error C2018: неизвестный знак "0x1"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,5): error C2018: неизвестный знак "0x14"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,6): error C2018: неизвестный знак "0x1"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,9): error C2018: неизвестный знак "0x2"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,13): error C2018: неизвестный знак "0x1"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,15): error C2018: неизвестный знак "0x1"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,24): error C2018: неизвестный знак "0x40"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,25): error C2059: синтаксическая ошибка: неправильный суффикс для числа
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,34): error C2018: неизвестный знак "0x40"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(4,35): error C2059: синтаксическая ошибка: неправильный суффикс для числа
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(5,6): error C2017: недопустимая escape-последовательность
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(5,79): error C2018: неизвестный знак "0x60"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,2): error C2018: неизвестный знак "0x1"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,3): error C2018: неизвестный знак "0x4"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,5): error C3872: 0xa4: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,13): error C2018: неизвестный знак "0x5"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,16): error C2018: неизвестный знак "0x11"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,64): error C2018: неизвестный знак "0x60"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,101): error C2018: неизвестный знак "0x40"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,107): error C3872: 0x24: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,124): error C2018: неизвестный знак "0x3"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,127): error C3872: 0x4: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,141): error C2018: неизвестный знак "0xe"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,145): error C2018: неизвестный знак "0x40"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,147): error C2018: неизвестный знак "0x10"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,170): error C2018: неизвестный знак "0x5"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,185): error C2018: неизвестный знак "0x40"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,187): error C2018: неизвестный знак "0x10"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,188): error C3872: 0x2039: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,203): error C3873: "0x2039": этот символ недопустим как первый символ идентификатора
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,207): error C2018: неизвестный знак "0x8"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,208): error C3873: "0x2039": этот символ недопустим как первый символ идентификатора
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,211): error C2018: неизвестный знак "0x1e"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,217): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,217): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,217): error C2059: синтаксическая ошибка: }
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,218): error C2018: неизвестный знак "0x1"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,219): error C3873: "0x201c": этот символ недопустим как первый символ идентификатора
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,219): error C3872: 0x201c: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,236): error C2018: неизвестный знак "0x8"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,238): error C3872: 0x2039: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,252): error C3873: "0x2039": этот символ недопустим как первый символ идентификатора
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,256): error C2018: неизвестный знак "0x8"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,257): error C3873: "0x2039": этот символ недопустим как первый символ идентификатора
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,260): error C2018: неизвестный знак "0x1e"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,263): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,266): error C2143: синтаксическая ошибка: отсутствие ";" перед "~"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,266): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,264): error C2086: int Г: переопределение
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,267): error C2018: неизвестный знак "0x1"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,268): error C3873: "0x201c": этот символ недопустим как первый символ идентификатора
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,268): error C3872: 0x201c: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,268): error C2588: ::~“вш“: недопустимая глобальная переменная деструктор
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,279): error C2760: синтаксическая ошибка: непредвиденный элемент "^". Ожидается "выражение"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,279): error C2143: синтаксическая ошибка: отсутствие ";" перед "^"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,279): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,285): error C2018: неизвестный знак "0x8"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,287): error C2018: неизвестный знак "0x4"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,279): error C3193: "^": требуется параметр командной строки "/clr" или "/ZW"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,296): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,291): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "у"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,303): error C2017: недопустимая escape-последовательность
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,309): error C2017: недопустимая escape-последовательность
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,315): error C2017: недопустимая escape-последовательность
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,316): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,310): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "admin"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,325): error C2017: недопустимая escape-последовательность
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,342): error C2017: недопустимая escape-последовательность
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,345): error C3872: 0x2022: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,358): error C2017: недопустимая escape-последовательность
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,371): error C2017: недопустимая escape-последовательность
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,375): error C3872: 0xbb: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,375): error C3872: 0xb0: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,375): error C3872: 0xb1: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,391): error C2017: недопустимая escape-последовательность
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,398): error C2017: недопустимая escape-последовательность
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,407): error C2017: недопустимая escape-последовательность
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,434): error C2018: неизвестный знак "0x1"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,439): error C2018: неизвестный знак "0x3"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,441): error C2018: неизвестный знак "0x1c"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,442): error C3872: 0x201e: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,442): error C3872: 0x4: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,452): error C2018: неизвестный знак "0x7"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,465): error C2018: неизвестный знак "0x3"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,466): error C3872: 0x2022: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,466): error C3872: 0xb1: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,466): error C3872: 0x201e: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,525): error C2018: неизвестный знак "0x16"
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,529): error C3872: 0x4: этот символ невозможно использовать в идентификаторе
+         C:\Users\admin\Documents\уник\3 СЕМ\КПО\19 лаба\lab_19\Debug\SE_asm01a.lib(6,529): error C1003: число ошибок превышает 100; остановка компиляции
+
+    Предупреждений: 0
+    Ошибок: 102
+
+Прошло времени 00:00:00.70
