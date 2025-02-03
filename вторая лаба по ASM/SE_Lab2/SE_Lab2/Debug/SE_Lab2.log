@@ -1,0 +1,24 @@
+﻿Сборка начата 04.12.2024 22:09:23.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\admin\Documents\уник\3 СЕМ\КПО\вторая лаба по ASM\SE_Lab2\SE_Lab2\SE_Lab2.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "Debug\SE_Lab2.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\SE_Lab2.tlog\unsuccessfulbuild".
+       _MASM:
+         Assembling SE_Lab2.asm...
+         cmd.exe /C "C:\Users\admin\AppData\Local\Temp\tmp5299cd3faa2e41249ec25db86631150e.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\SE_Lab2.obj" /W3 /errorReport:prompt  /TaSE_Lab2.asm
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Documents\уник\3 СЕМ\КПО\вторая лаба по ASM\SE_Lab2\Debug\SE_Lab2.exe" /INCREMENTAL /ILK:"Debug\SE_Lab2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin\Documents\уник\3 СЕМ\КПО\вторая лаба по ASM\SE_Lab2\Debug\SE_Lab2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Documents\уник\3 СЕМ\КПО\вторая лаба по ASM\SE_Lab2\Debug\SE_Lab2.lib" /MACHINE:X86 Debug\SE_Lab2.obj
+         SE_Lab2.vcxproj -> C:\Users\admin\Documents\уник\3 СЕМ\КПО\вторая лаба по ASM\SE_Lab2\Debug\SE_Lab2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab2.tlog\SE_Lab2.lastbuildstate".
+     1>Сборка проекта "C:\Users\admin\Documents\уник\3 СЕМ\КПО\вторая лаба по ASM\SE_Lab2\SE_Lab2\SE_Lab2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.73

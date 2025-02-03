@@ -1,0 +1,37 @@
+﻿Сборка начата 04.12.2024 21:55:22.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\admin\Documents\уник\3 СЕМ\КПО\вторая лаба по ASM\SE_Lab2\SE_Lab2\SE_Lab2.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "x64\Debug\SE_Lab2.tlog\SE_Lab2.lastbuildstate" удаляется.
+       PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Debug\SE_Lab2.tlog\unsuccessfulbuild".
+       _MASM:
+         Assembling SE_Lab2.asm...
+         cmd.exe /C "C:\Users\admin\AppData\Local\Temp\tmp6bf815ba5e184c61a1b8d8cba2dcb404.cmd"
+         ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_Lab2.obj" /W3 /errorReport:prompt  /TaSE_Lab2.asm
+     1>SE_Lab2.asm(1): error A2008: syntax error : .
+     1>SE_Lab2.asm(2): error A2008: syntax error : .
+     1>SE_Lab2.asm(8): error A2008: syntax error : .
+     1>SE_Lab2.asm(26): error A2008: syntax error : MessageBoxA
+     1>SE_Lab2.asm(33): error A2008: syntax error : main
+     1>SE_Lab2.asm(33): error A2088: END directive required at end of file
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_Lab2.obj" /W3 /errorReport:prompt  /TaSE_Lab2.asm" с кодом "1".
+     1>Сборка проекта "C:\Users\admin\Documents\уник\3 СЕМ\КПО\вторая лаба по ASM\SE_Lab2\SE_Lab2\SE_Lab2.vcxproj" завершена (целевые объекты Rebuild) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Users\admin\Documents\уник\3 СЕМ\КПО\вторая лаба по ASM\SE_Lab2\SE_Lab2\SE_Lab2.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект _MASM) -> 
+         SE_Lab2.asm(1): error A2008: syntax error : .
+         SE_Lab2.asm(2): error A2008: syntax error : .
+         SE_Lab2.asm(8): error A2008: syntax error : .
+         SE_Lab2.asm(26): error A2008: syntax error : MessageBoxA
+         SE_Lab2.asm(33): error A2008: syntax error : main
+         SE_Lab2.asm(33): error A2088: END directive required at end of file
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\SE_Lab2.obj" /W3 /errorReport:prompt  /TaSE_Lab2.asm" с кодом "1".
+
+    Предупреждений: 0
+    Ошибок: 7
+
+Прошло времени 00:00:00.34
